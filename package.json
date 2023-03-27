@@ -1,0 +1,23 @@
+{
+  "name": "tech-blog",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm install",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keekerr/Tech-Blog.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "keeley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keekerr/Tech-Blog/issues"
+  },
+  "homepage": "https://github.com/keekerr/Tech-Blog#readme"
+}
